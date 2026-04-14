@@ -60,23 +60,8 @@ Gemini CLI는 **Google 계정 로그인 방식**으로 사용할 수 있으며, 
 
 Gemini CLI는 Node.js 기반입니다. (20 이상 권장)
 
-#### macOS
-
-```bash
-brew install node
-node -v
-```
-
-#### Windows (Git Bash)
-
-1. [https://nodejs.org](https://nodejs.org) 접속
-2. `LTS` 버전 다운로드 후 설치 (옵션은 기본값)
-3. Git Bash 재시작 후 확인:
-
-```bash
-node -v
-npm -v
-```
+→ [Node.js 설치 가이드](./docs/nodejs.md) 를 먼저 완료하세요.
+(macOS는 Homebrew가 필요합니다 → [Homebrew 설치 가이드](./docs/brew.md))
 
 ### 3-2. Gemini CLI 설치 (공통)
 

@@ -55,10 +55,9 @@ Git을 설치하면 함께 설치됩니다. (1번 섹션에서 설치 후 사용
 
 ### macOS
 
-```bash
-# Homebrew가 없다면 먼저 설치
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Homebrew가 없다면 먼저 설치 → [Homebrew 설치 가이드](./docs/brew.md)
 
+```bash
 # Git 설치
 brew install git
 

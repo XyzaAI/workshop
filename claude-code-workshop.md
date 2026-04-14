@@ -42,13 +42,8 @@ Anthropic 계정 생성부터 요금제, macOS / Windows 설치, 인증, 기본 
 
 ### 3-1. 사전 요구사항
 
-- **Node.js 18+** 필요
-  ```bash
-  node --version
-  ```
-  없다면:
-  - macOS: `brew install node`
-  - Windows: [https://nodejs.org](https://nodejs.org) LTS 설치
+- **Node.js 18+** 필요 → [Node.js 설치 가이드](./docs/nodejs.md)
+  (macOS는 Homebrew가 필요합니다 → [Homebrew 설치 가이드](./docs/brew.md))
 
 ### 3-2. macOS
 

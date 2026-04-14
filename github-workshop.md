@@ -181,11 +181,11 @@ ssh -T git@github.com
 # 작업 폴더로 이동
 cd ~/Desktop
 
-# 클론
-git clone git@github.com:<owner>/<repo>.git
+# 클론 (이번 워크샵 실습 저장소)
+git clone git@github.com:XyzaAI/workshop-git.git
 
 # 폴더로 이동
-cd <repo>
+cd workshop-git
 ```
 
 ---

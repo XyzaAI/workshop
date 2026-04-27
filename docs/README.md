@@ -41,6 +41,7 @@ CLI / IDE 기반 AI 코딩 에이전트 본체를 정리합니다.
 - [Hermes Agent](./extensions/hermes.md) — Nous Research, 자기 진화 학습 루프
 - [OpenClaw](./extensions/openclaw.md) — 셀프호스트 메신저 비서 (WhatsApp/Telegram 등)
 - [oh-my-opencode](./extensions/oh-my-opencode.md) — OpenCode "battery included" 메가팩
+- [Harness](./extensions/harness.md) — Claude Code 메타 팩토리. 도메인 → 6 패턴 → 에이전트팀+스킬 자동 생성
 
 전체 개요: [`extensions/README.md`](./extensions/README.md)
 

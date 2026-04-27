@@ -2,7 +2,9 @@
 
 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — Nous Research가 만든 **자기 개선 AI 에이전트**. "The agent that grows with you"가 슬로건.
 
-여타 에이전트와의 핵심 차이: **빌트인 학습 루프** — 작업하면서 스킬을 만들고, 사용 중에 그 스킬을 개선하고, 과거 대화를 검색해 자신을 점점 더 사용자에 맞춰갑니다.
+여타 에이전트와의 핵심 차이: **빌트인 학습 루프** — 작업하면서 스킬을 만들고, 사용 중에 그 스킬을 개선하고, 과거 대화를 검색해 자신을 점점 더 사용자에 맞춰갑니다. **81+ 빌트인 스킬** 기본 탑재.
+
+> 핸즈온 가이드: [`../../workshops/extensions/hermes-workshop.md`](../../workshops/extensions/hermes-workshop.md). 이 문서는 **레퍼런스**.
 
 ---
 

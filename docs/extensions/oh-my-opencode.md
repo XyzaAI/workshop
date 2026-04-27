@@ -2,7 +2,9 @@
 
 [opensoft/oh-my-opencode](https://github.com/opensoft/oh-my-opencode) — **#1 OpenCode 플러그인**. "Battery included" 형태로 OpenCode를 처음부터 풀장착시켜주는 메가팩.
 
-3.0 stable. 1,400+ 커밋의 누적 다듬음. **"오픈코드의 oh-my-zsh"** 정도로 보면 됨.
+**v3.17.5** (2026-04-24 최신). 1,400+ 커밋의 누적 다듬음. **"오픈코드의 oh-my-zsh"** 정도로 보면 됨.
+
+> 핸즈온 가이드: [`../../workshops/extensions/oh-my-opencode-workshop.md`](../../workshops/extensions/oh-my-opencode-workshop.md). 이 문서는 **레퍼런스**.
 
 > 주의: 프로젝트가 [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) (omo) 로 리브랜딩 중. plugin 설정 키는 점점 `oh-my-openagent` 가 권장되며, 기존 `oh-my-opencode` 키는 호환성으로 로딩됨 (warning 출력).
 

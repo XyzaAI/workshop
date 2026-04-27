@@ -13,6 +13,7 @@
 | [Superpowers](./superpowers.md) | TDD / 디버깅 / 계획 등 **방법론 디시플린**을 스킬로 강제 |
 | [gstack](./gstack.md) | Garry Tan(YC) 의 풀 사이클 셋업 — CEO/Designer/Eng/QA 23개 역할 |
 | [GSD (Get Shit Done)](./gsd.md) | 스펙 드리븐 컨텍스트 관리. 12개 런타임 지원 |
+| [Harness](./harness.md) | **메타 팩토리** — 도메인 받아 위 같은 스킬팩을 자동 생성 (L3) |
 
 세 개를 같이 쓰는 [실용 가이드 (DEV.to)](https://dev.to/imaginex/a-claude-code-skills-stack-how-to-combine-superpowers-gstack-and-gsd-without-the-chaos-44b3) 참고.
 

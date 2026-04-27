@@ -4,6 +4,8 @@
 
 > 사용자 메시지의 "open claw"가 이것입니다. 🦞 (로고가 가재)
 
+> 핸즈온 가이드: [`../../workshops/extensions/openclaw-workshop.md`](../../workshops/extensions/openclaw-workshop.md). 이 문서는 **레퍼런스**.
+
 Hermes Agent와 자주 비교됨 — 둘 다 **영속 메모리 + 멀티채널 비서** 컨셉.
 
 ---

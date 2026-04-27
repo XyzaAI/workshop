@@ -6,6 +6,8 @@
 
 GitHub 16K+ stars, 1.8K+ forks. Garry Tan은 본인 워크플로우로 **2013년 대비 810배 빠른 출하 속도**를 보고했고, YC 풀타임을 하면서 60일에 3개 production 서비스 + 40+ 기능을 출시했다고 함.
 
+> 핸즈온 가이드: [`../../workshops/extensions/gstack-workshop.md`](../../workshops/extensions/gstack-workshop.md). 이 문서는 **레퍼런스**.
+
 ---
 
 ## 철학

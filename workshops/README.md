@@ -24,6 +24,18 @@ CLI / IDE 기반 AI 코딩·작업 에이전트.
 
 - [Obsidian](./notes/obsidian-workshop.md) — Vault · 문법 · 백링크 · 플러그인 · Git 연동
 
+## 에이전트 확장 / 워크플로우 (`extensions/`)
+
+에이전트 본체 위에 얹는 프레임워크 / 스킬팩의 핸즈온 가이드.
+
+- [GSD (Get Shit Done)](./extensions/gsd-workshop.md) — Claude Code 위 스펙 드리븐 워크플로우. `/gsd-new-project`부터 ship까지 전체 사이클 + workspace/workstream
+- [Superpowers](./extensions/superpowers-workshop.md) — Claude Code Skill 디시플린 (TDD/디버깅/검증). brainstorm → plan → execute 3단계 + 자동 발동 메타스킬
+- [gstack](./extensions/gstack-workshop.md) — Garry Tan(YC) 스킬팩 30+ 개. `/office-hours`부터 `/land-and-deploy`까지 풀 사이클 + GBrain 영속 메모리
+- [oh-my-opencode](./extensions/oh-my-opencode-workshop.md) — OpenCode 오케스트레이션 하니스. Sisyphus/Hephaestus/Oracle 등 6개 에이전트 협력 + Claude Code 호환 레이어
+- [Hermes Agent](./extensions/hermes-workshop.md) — Nous Research, 자기 진화 학습 루프. CLI + 텔레그램/디스코드 채널 + Claude Code 위임 + 81개 빌트인 스킬
+- [OpenClaw](./extensions/openclaw-workshop.md) 🦞 — 셀프호스트 멀티채널 비서. WhatsApp/Telegram/Slack/iMessage + Live Canvas + Wake word + 자율 워크플로우 + Claude Code 플러그인
+- [Harness](./extensions/harness-workshop.md) — Claude Code "Team-Architecture Factory". 도메인 한 줄 → 6 패턴(Pipeline/Fan-out/Expert Pool/Producer-Reviewer/Supervisor/Hierarchical) 자동 선택 → 에이전트팀+스킬 자동 생성
+
 ## 새 워크샵 추가 가이드
 
 1. 카테고리 결정 (위 4개 폴더 중 하나, 아니면 새 폴더 생성 사유 명시)

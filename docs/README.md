@@ -66,6 +66,7 @@ AI 에이전트를 굴릴 때 필수에 가까운 터미널 환경입니다.
 - [Hooks](./tips/hooks.md) — 자동화 트리거 만들기
 - [MCP Setup](./tips/mcp-setup.md) — Model Context Protocol 서버 연결
 - [생산성 팁](./tips/productivity.md) — 일반 패턴/단축키/세션 관리
+- [Remote 작업 환경](./tips/remote.md) — 서버 + SSH + 모바일로 어디서든 에이전트 접속
 
 전체 개요: [`tips/README.md`](./tips/README.md)
 

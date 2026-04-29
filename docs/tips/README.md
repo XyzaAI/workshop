@@ -12,6 +12,7 @@
 - [Hooks](./hooks.md) — 특정 이벤트에 자동으로 명령 실행
 - [MCP Setup](./mcp-setup.md) — Model Context Protocol 서버 연결
 - [생산성 팁](./productivity.md) — 단축키 / 세션 / 컨텍스트 관리
+- [Remote 작업 환경](./remote.md) — 서버 + SSH + 모바일로 어디서든 에이전트 접속
 
 ---
 

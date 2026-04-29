@@ -36,6 +36,10 @@ CLI / IDE 기반 AI 코딩·작업 에이전트.
 - [OpenClaw](./extensions/openclaw-workshop.md) 🦞 — 셀프호스트 멀티채널 비서. WhatsApp/Telegram/Slack/iMessage + Live Canvas + Wake word + 자율 워크플로우 + Claude Code 플러그인
 - [Harness](./extensions/harness-workshop.md) — Claude Code "Team-Architecture Factory". 도메인 한 줄 → 6 패턴(Pipeline/Fan-out/Expert Pool/Producer-Reviewer/Supervisor/Hierarchical) 자동 선택 → 에이전트팀+스킬 자동 생성
 
+## 활용 팁 (`tips/`)
+
+- [Remote 작업 환경 구성](./tips/remote-workshop.md) — tmux + Tailscale + Termius + ntfy로 어디서든 에이전트 접속 & 알림
+
 ## 새 워크샵 추가 가이드
 
 1. 카테고리 결정 (위 4개 폴더 중 하나, 아니면 새 폴더 생성 사유 명시)

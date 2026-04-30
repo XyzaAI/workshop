@@ -22,7 +22,8 @@ AI 에이전트는 다음 같은 워크플로우가 일상입니다:
 | 도구 | 한 줄 정리 | 추천 상황 |
 |---|---|---|
 | [tmux](./tmux.md) | 표준 멀티플렉서, 학습 곡선 있지만 가장 강력 | 데일리 드라이버, SSH 작업 |
-| [cmux](./cmux.md) | Claude Code/AI 친화적 wrapper 또는 대안 | AI 작업 전용 환경 |
+| [cmux](./cmux.md) | Claude Code/AI 친화적 macOS 네이티브 GUI | AI 작업 전용, 로컬 GUI |
+| [agent-deck](./agent-deck.md) | AI 에이전트 전용 TUI 세션 매니저 — 상태/MCP/스킬/비용/포크 1급 지원 | 여러 프로젝트·여러 에이전트 동시 굴릴 때 |
 | zellij | tmux 대체, 친절한 UI | tmux 단축키가 너무 부담스러울 때 |
 | screen | 기본 내장 | 굳이 새로 배울 가치 적음 |
 
@@ -62,6 +63,8 @@ tmux 세션 1개
 - pane 3: aider --watch-files (자동 모드)
 - pane 4: 로그 / git status
 ```
+
+세션이 5개 넘어가면 [`agent-deck`](./agent-deck.md) 으로 옮기는 걸 권장 — 상태(running/waiting/idle/error) 자동 감지, 포크, MCP 토글, 비용 대시보드까지 한 TUI 에서.
 
 ---
 

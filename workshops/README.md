@@ -35,6 +35,8 @@ CLI / IDE 기반 AI 코딩·작업 에이전트.
 - [Hermes Agent](./extensions/hermes-workshop.md) — Nous Research, 자기 진화 학습 루프. CLI + 텔레그램/디스코드 채널 + Claude Code 위임 + 81개 빌트인 스킬
 - [OpenClaw](./extensions/openclaw-workshop.md) 🦞 — 셀프호스트 멀티채널 비서. WhatsApp/Telegram/Slack/iMessage + Live Canvas + Wake word + 자율 워크플로우 + Claude Code 플러그인
 - [Harness](./extensions/harness-workshop.md) — Claude Code "Team-Architecture Factory". 도메인 한 줄 → 6 패턴(Pipeline/Fan-out/Expert Pool/Producer-Reviewer/Supervisor/Hierarchical) 자동 선택 → 에이전트팀+스킬 자동 생성
+- [Channels](./extensions/channels-workshop.md) — Claude Code 외부 이벤트 push 채널 (research preview). Telegram / Discord / iMessage / 자작 webhook 수신기 + Permission Relay 로 폰에서 도구 승인
+- [agent-deck](./extensions/agent-deck-workshop.md) — AI 에이전트 전용 TUI 세션 매니저. Claude/Gemini/Codex/OpenCode 한 자리, 상태 감지·포크·MCP 토글·스킬 풀·비용 대시보드·conductor
 
 ## 활용 팁 (`tips/`)
 

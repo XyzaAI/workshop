@@ -52,7 +52,8 @@ CLI / IDE 기반 AI 코딩 에이전트 본체를 정리합니다.
 AI 에이전트를 굴릴 때 필수에 가까운 터미널 환경입니다.
 
 - [tmux](./terminal/tmux.md) — 가장 표준적인 터미널 멀티플렉서
-- [cmux](./terminal/cmux.md) — Claude/AI 친화적 멀티플렉서
+- [cmux](./terminal/cmux.md) — Claude/AI 친화적 macOS GUI
+- [agent-deck](./terminal/agent-deck.md) — AI 에이전트 전용 TUI 세션 매니저 (상태/MCP/스킬/비용 1급)
 
 전체 개요: [`terminal/README.md`](./terminal/README.md)
 
